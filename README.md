@@ -14,3 +14,5 @@
 | [Hafta 10](https://github.com/berkanserbes/nodejs-reports/blob/main/Hafta10_BerkanSerbes_22360859353.pdf)       |  NoSQL Veritabanı Nedir? MongoDB, Görev Yönetim Uygulaması Geliştirme    |
 | [Hafta 11](https://github.com/berkanserbes/nodejs-reports/blob/main/Hafta12_BerkanSerbes_22360859353.pdf)       | MongoDB ile Görev Yönetim Uygulaması Kod Örnekleri |
 | [Hafta 12](https://github.com/berkanserbes/nodejs-reports/blob/main/Hafta14_BerkanSerbes_22360859353.pdf)       | Api Testleri, Postman Kullanımı, Yazılım Geliştirme Ortamları, Modüler Görev Yönetim Uygulaması Geliştirme  |
+
+Dönem sonu projesi olarak geliştirdiğimiz uygulamanın GitHub reposuna gitmek için [tıklayın](https://github.com/NodeJS-StudentManagement/StudentManagement)
